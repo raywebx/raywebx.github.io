@@ -1,13 +1,20 @@
+
+body{
+	background-color: lavenderblush;
+
+
+
+}
 h1{
  	text-align: center;
-	font-family: Arial;
-	font-color: black;
+	font-family: Calibri;
+	color: #DDA0DD;
 	border: 1px solid black;
 } 
 p { 
 
 background-color: lightpink;
-font-family: Arial;
+font-family: Helvetica;
 margin: 0 auto;
 width: 50%;
     border: 2px solid black;
