@@ -1,5 +1,30 @@
- p {
+h1{
+ 	text-align: center;
+	font-family: Arial;
+	font-color: black;
+} 
+p { /*
+display: inline-block;
  background-color: pink;
+
+padding: 25px;
  font-family: Arial;
- border: 0;
+font-color: red;
+
+	text-align: center;
+border: 5px solid black; */
+
+background-color: pink;
+font-family: Arial;
+margin: 0 auto;
+width: 50%;
+    border: 2px solid black;
+border-radius:2px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 26px;
+
  }
