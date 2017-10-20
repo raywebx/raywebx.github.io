@@ -1,20 +1,23 @@
-
+@import url('https://fonts.googleapis.com/css?family=Alex Brush');
+@import url('https://fonts.googleapis.com/css?family=Shadows Into Light Two');
 body{
-	background-color: lavenderblush;
+	background-color: #454545;
 
 
 
 }
 h1{
  	text-align: center;
-	font-family: Calibri;
-	color: #DDA0DD;
+	font-family: Alex Brush;
+	font-size: 52px;
+	color: Salmon;
 	border: 1px solid black;
 } 
 p { 
 
-background-color: lightpink;
-font-family: Helvetica;
+background-color: #696969;
+font-family: Shadows Into Light Two;
+font-size: 500px;
 margin: 0 auto;
 width: 50%;
     border: 2px solid black;
