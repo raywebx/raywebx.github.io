@@ -1,32 +1,82 @@
-@import url('https://fonts.googleapis.com/css?family=Alex Brush');
+@import url('https://fonts.googleapis.com/css?family=Jura');
 @import url('https://fonts.googleapis.com/css?family=Shadows Into Light Two');
+
 body{
 	background-color: #454545;
-
-
-
+  
 }
-h1{
- 	text-align: center;
-	font-family: Alex Brush;
-	font-size: 52px;
-	color: Salmon;
-	border: 1px solid black;
-} 
+.home-1{
+  text-align: center;
+  color: white;
+  background: url(" https://www.bluematrixmedia.com/wp-content/uploads/2015/12/WebDesignonWood.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+  height: 700px;
+  font-family: Jura;
+}
+
+.img-1{
+  max-width: 100%;
+  height: auto;
+  overflow:hidden;
+}
+
+.first-title{
+  color: aqua;
+  text-shadow: 1px 5px 5px #000;
+  
+  text-align: center;
+  padding-top: 25px;
+  margin-top: 225px;
+ 
+}
+
+.about{
+  color: aqua;
+  font-family: Shadows Into Light Two;
+  background: url("http://raywebx.github.io/27212860-mosaic-wallpapers.jpg");
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+  background-size: cover;
+}
+
 p { 
 
-background-color: #696969;
+background-color: #454545;
 font-family: Shadows Into Light Two;
-font-size: 500px;
-margin: 0 auto;
-width: 50%;
-    border: 2px solid black;
+font-size: 500px;    
 border-radius:2px;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
+    
+    text-align: right;
     display: block;
-    font-size: 26px;
+    font-size: 30px;
+  
 
- }
+ }  
+.bg-1{
+  background-color: aqua;
+  font-family: Shadows Into Light Two;
+}
+
+.btn-lg{
+  padding: 50px;
+  margin: 50px;
+}
+#contact {
+  width: 100%;
+  height: 700px;
+  background-image: url(http://www.b2wbd.com/images/computer.jpg);
+  background-repeat: no-repeat;
+  
+  background-position: center; 
+  background-size: cover;
+  font-family: Shadows Into Light Two;
+  text-align: center;
+  color: aqua;
+  
+}
+ 
