@@ -1,22 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Jura');
 @import url('https://fonts.googleapis.com/css?family=Shadows Into Light Two');
+.brand{
+  font-family: Roboto;
+}
+body {
+	background-color: #FCF6F5;
 
-body{
-	background-color: #454545;
   
 }
+
+
 .home-1{
   text-align: center;
   color: white;
-  background: url(" https://www.bluematrixmedia.com/wp-content/uploads/2015/12/WebDesignonWood.jpg");
+ background-image: url(http://st.gde-fon.com/wallpapers_original/498322_bloki_3d_chernoe_1920x1080_www.Gde-Fon.com.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
   background-size: cover;
-  height: 700px;
+  height: 1050px;
   font-family: Jura;
 }
-
+ myface{
+  padding: 25px;
+}
 .img-1{
   max-width: 100%;
   height: auto;
@@ -24,7 +31,7 @@ body{
 }
 
 .first-title{
-  color: aqua;
+  color: #454545;
   text-shadow: 1px 5px 5px #000;
   
   text-align: center;
@@ -34,32 +41,37 @@ body{
 }
 
 .about{
-  color: aqua;
-  font-family: Shadows Into Light Two;
-  background: url("http://raywebx.github.io/27212860-mosaic-wallpapers.jpg");
+  color: #454545;
+  font-family: Roboto;
+  /*background: url("http://raywebx.github.io/27212860-mosaic-wallpapers.jpg"); */
   background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
   background-size: cover;
+   height: 950px;
+   background-color: #DEDEDE;
 }
 
 p { 
 
-background-color: #454545;
-font-family: Shadows Into Light Two;
-font-size: 500px;    
-border-radius:2px;
-    color: white;
-    
-    text-align: right;
+background-color: #DEDEDE;
+font-family: Roboto;
+
+border-radius:5px;
+    color: #454545;
+    padding: 10px;
+    text-align: center;
     display: block;
     font-size: 30px;
   
 
  }  
 .bg-1{
-  background-color: aqua;
-  font-family: Shadows Into Light Two;
+  background: url("http://sf.co.ua/14/09/wallpaper-2562466.jpg");
+  font-family: Roboto;
+   height: 850px;
+  background-size: cover;
+  color: white;
 }
 
 .btn-lg{
@@ -71,12 +83,13 @@ border-radius:2px;
   height: 700px;
   background-image: url(http://www.b2wbd.com/images/computer.jpg);
   background-repeat: no-repeat;
-  
+  color: white;
   background-position: center; 
   background-size: cover;
-  font-family: Shadows Into Light Two;
+  font-family: Roboto;
   text-align: center;
-  color: aqua;
+    height: 850px;
+
   
 }
  
